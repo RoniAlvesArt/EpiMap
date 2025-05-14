@@ -1,4 +1,14 @@
-![patho-track-logo](https://raw.githubusercontent.com/BIA-lab/patho-track/main/img/patho-track-logo.png)
+![EpiMap-logo](https://raw.githubusercontent.com/BIA-lab/patho-track/main/img/caminho.png)
+
+# EpiMap
+
+**EN**  
+EpiMap is a Minimum Viable Product (MVP) developed as part of the course NAP802 – Entrepreneurship at the Federal University of Minas Gerais (UFMG). It is an intelligent platform designed for mapping and preventing epidemics and pandemics, with a focus on infectious diseases.
+
+**PT-BR**  
+EpiMap é um MVP (Produto Mínimo Viável) desenvolvido como parte da disciplina NAP802 – Empreendedorismo, na Universidade Federal de Minas Gerais (UFMG). Trata-se de uma plataforma inteligente voltada para o mapeamento e a prevenção de epidemias e pandemias, com foco em doenças infectocontagiosas.
+
+# REFAZER
 
 # Patho Track Repository
 
