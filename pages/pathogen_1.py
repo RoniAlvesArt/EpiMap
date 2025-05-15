@@ -4,6 +4,7 @@ from source.pages.header_pathogen_1 import *
 from source.graphs.africa_map import *
 from source.graphs.categories_proportion import categories_bar_plot
 from source.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_category
+import os
 
 
 def main():
@@ -18,7 +19,8 @@ def main():
     remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
     ## Getting the data
-    df_africa = load_data('data/dengue/dengue_1.csv') #TODO change the dataset here
+    data_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data/dengue/dengue_1.csv')
+    df_africa = load_data(data_path) #Using absolute path to ensure file is found
 
     ##### CHECK LAST UPDATE #####
     with open('last_update.txt', 'r') as f:

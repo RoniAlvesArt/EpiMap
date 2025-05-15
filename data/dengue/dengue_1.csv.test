@@ -1,0 +1,41 @@
+country,category_2,date,location,id
+South Africa,DENV-1,2023-01-15,Johannesburg,SA001
+South Africa,DENV-2,2023-02-10,Cape Town,SA002
+South Africa,DENV-1,2023-03-05,Durban,SA003
+South Africa,DENV-3,2023-04-20,Pretoria,SA004
+Nigeria,DENV-2,2023-01-25,Lagos,NG001
+Nigeria,DENV-4,2023-02-15,Abuja,NG002
+Nigeria,DENV-2,2023-03-10,Kano,NG003
+Egypt,DENV-1,2023-01-05,Cairo,EG001
+Egypt,DENV-3,2023-02-20,Alexandria,EG002
+Egypt,DENV-1,2023-03-15,Giza,EG003
+Kenya,DENV-2,2023-01-30,Nairobi,KE001
+Kenya,DENV-4,2023-02-25,Mombasa,KE002
+Kenya,DENV-1,2023-03-20,Kisumu,KE003
+Morocco,DENV-3,2023-01-10,Casablanca,MA001
+Morocco,DENV-1,2023-02-05,Rabat,MA002
+Morocco,DENV-2,2023-03-25,Marrakech,MA003
+Ghana,DENV-4,2023-01-20,Accra,GH001
+Ghana,DENV-2,2023-02-12,Kumasi,GH002
+Ghana,DENV-3,2023-03-18,Tamale,GH003
+Algeria,DENV-1,2023-01-08,Algiers,DZ001
+Algeria,DENV-3,2023-02-22,Oran,DZ002
+Algeria,DENV-2,2023-03-12,Constantine,DZ003
+Tanzania,DENV-2,2023-01-05,Dar es Salaam,TZ001
+Tanzania,DENV-4,2023-02-18,Zanzibar,TZ002
+Tanzania,DENV-1,2023-03-22,Arusha,TZ003
+Ethiopia,DENV-3,2023-01-14,Addis Ababa,ET001
+Ethiopia,DENV-1,2023-02-27,Dire Dawa,ET002
+Ethiopia,DENV-2,2023-03-17,Awasa,ET003
+Angola,DENV-4,2023-01-07,Luanda,AO001
+Angola,DENV-2,2023-02-09,Huambo,AO002
+Angola,DENV-3,2023-03-28,Lobito,AO003
+Cameroon,DENV-1,2023-01-19,Yaoundé,CM001
+Cameroon,DENV-3,2023-02-14,Douala,CM002
+Cameroon,DENV-2,2023-03-19,Garoua,CM003
+Senegal,DENV-2,2023-01-06,Dakar,SN001
+Senegal,DENV-4,2023-02-23,Saint-Louis,SN002
+Senegal,DENV-1,2023-03-27,Touba,SN003
+Zimbabwe,DENV-3,2023-01-29,Harare,ZW001
+Zimbabwe,DENV-1,2023-02-13,Bulawayo,ZW002
+Zimbabwe,DENV-2,2023-03-08,Mutare,ZW003 

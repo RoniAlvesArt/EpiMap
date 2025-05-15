@@ -1,5 +1,14 @@
 ##### Palette colors #####
-main_categories_1_color_scheme = {}
+main_categories_1_color_scheme = {
+    'High Risk': '#e41a1c',
+    'Medium Risk': '#ff7f00',
+    'Low Risk': '#4daf4a',
+    'Under Investigation': '#377eb8',
+    'Contained': '#999999',
+    'Endemic': '#984ea3',
+    'Epidemic': '#e41a1c',
+    'Sporadic': '#ffff33'
+}
 
 ###### Dictionary to select countries per region ####
 countries_regions = {'Central Africa': {'Burundi', 'Cameroon', 'Central African Republic', 'Chad',
@@ -23,4 +32,22 @@ vocs_color_pallet = {'Unassigned': 'Greys', 'DENV-1': 'YlOrBr', 'DENV-2': 'Orang
 
 ##### Dengue dashboard dicts ########
 #TODO Fill the dictionary with your categories
-dengue_categories = {}
+dengue_categories = {
+    'Clinical': '#1f77b4',
+    'Confirmed': '#ff7f0e',
+    'Severe': '#d62728',
+    'Deaths': '#9467bd',
+    'Imported': '#8c564b'
+}
+
+##### Concerned categories ########
+concerned_categories = {
+    'High Risk': '#e41a1c',
+    'Medium Risk': '#ff7f00',
+    'Low Risk': '#4daf4a',
+    'Under Investigation': '#377eb8',
+    'Contained': '#999999',
+    'Endemic': '#984ea3',
+    'Epidemic': '#e41a1c',
+    'Sporadic': '#ffff33'
+}

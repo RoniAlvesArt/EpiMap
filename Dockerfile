@@ -13,7 +13,9 @@ RUN apt-get update && apt-get install -y \
 
 COPY . .
 
-RUN pip3 install -r requirements.txt
+# Pin numpy version before installing other dependencies to avoid compatibility issues
+RUN pip3 install numpy==1.23.5 && \
+    pip3 install -r requirements.txt
 
 EXPOSE 8511
 

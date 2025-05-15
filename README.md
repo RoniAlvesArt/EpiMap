@@ -8,7 +8,7 @@ EpiMap is a Minimum Viable Product (MVP) developed as part of the course NAP802 
 **PT-BR**  
 EpiMap é um MVP (Produto Mínimo Viável) desenvolvido como parte da disciplina NAP802 – Empreendedorismo, na Universidade Federal de Minas Gerais (UFMG). Trata-se de uma plataforma inteligente voltada para o mapeamento e a prevenção de epidemias e pandemias, com foco em doenças infectocontagiosas.
 
-# REFAZER
+# REFAZER ESSA PARTE ANTIGA ABAIXO E DEIXAR REFERÊNCIA
 
 # Patho Track Repository
 
